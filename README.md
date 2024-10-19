@@ -1,7 +1,7 @@
 # Coffee Orders Data Transformation and Visualization Using Excel
 
 ## Overview:
-This is an end-to-end Excel project involving a dataset of coffee orders. Key functions used for data transformation include XLOOKUP, INDEX MATCH, multiplication, and IF statements. The data was cleaned by formatting dates, numbers, and removing duplicates. Pivot tables and charts were then used to create a dynamic coffee sales dashboard.
+This Excel project transforms a dataset of coffee orders into an interactive dashboard that allows users to quickly identify trends in coffee bean sales. Key functions used for data transformation include XLOOKUP, INDEX MATCH, multiplication, and IF statements. The data was cleaned by formatting dates/numbers and removing duplicates. Pivot tables and charts were used to create a dynamic dashboard.
 
 ## Links:
 ### Data
